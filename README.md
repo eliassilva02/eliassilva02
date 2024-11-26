@@ -4,13 +4,13 @@
 - 💻 Desenvolvedor Backend na **[Grupo Imendes](https://grupoimendes.com.br/)**
 - 🧠 Em constante aprendizado!
 
-### **Linguagens e Utilitários:**
-___
+## **Linguagens e Utilitários:**
+
 [![My Skills](https://skillicons.dev/icons?i=py,cs,docker,go,rabbitmq,redis,dotnet,tensorflow)](https://skillicons.dev)
 
 
-### **Projetos pessoais:** 
-___
+## **Projetos pessoais:** 
+
 1. 📝 **[Medidor de Similarida](https://github.com/eliassilva02/medidor_de_similaridade)** > 
   Algoritmo que calcula a similaridade entre duas descrições. 
 
