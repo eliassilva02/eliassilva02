@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F7B41F&multiline=true&width=435&height=60&lines=_+%3E+Hi!;I'm+Data+analyst!+%F0%9F%8E%B2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F7B41F&multiline=true&width=435&height=60&lines=_+%3E+Hi!;I'm+Software+engineer!)](https://git.io/typing-svg)
 
 - 📚 Estudante de **Ciência da Computação**  
-- 💻 Desenvolvedor Backend na **[Grupo Imendes](https://grupoimendes.com.br/)**
+- 💻 Engenheiro de Software na **[Grupo Imendes](https://grupoimendes.com.br/)**
 - 🧠 Em constante aprendizado!
 
 ## **Linguagens e Utilitários:**
