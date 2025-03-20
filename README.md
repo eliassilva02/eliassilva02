@@ -10,15 +10,17 @@
 
 
 ## **Projetos pessoais:** 
-
-1. 📝 **[Medidor de Similarida](https://github.com/eliassilva02/medidor_de_similaridade)** > 
-  Algoritmo que calcula a similaridade entre duas descrições. 
+1. 🤖 **[Intelli-Search](https://github.com/eliassilva02/intelli-search)**>
+     Deep Research Agent.
 
 2. 🖱️ **[Mobile Mouse](https://github.com/eliassilva02/MobileMouse)**  >
   Um projeto que permite que um dispositivo móvel controle o cursor do mouse em um computador.  
 
-3. 🤖 **[API de Dados de Combustíveis](https://github.com/eliassilva02/api_de_dados)** >
+3. 🕮 **[Read Cloud](https://github.com/eliassilva02/read-cloud)** >
+  BookStore API.
+
+4. 🤖 **[API de Dados de Combustíveis](https://github.com/eliassilva02/api_de_dados)** >
   Esta API fornece indicadores diretamente de uma base de dados de Combustíveis com valores de Janeiro de 2007 disponibilizada pelo Governo Federal.  
 
-4. 🕮 **[Read Cloud](https://github.com/eliassilva02/read-cloud)** >
-  BookStore API.
+5. 📝 **[Medidor de Similaridade](https://github.com/eliassilva02/medidor_de_similaridade)** > 
+  Algoritmo que calcula a similaridade entre duas descrições. 
